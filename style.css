@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    background-color: #fffdde;
+}
+h1{
+    margin: 0px;
+    background-color: #e0b884;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+#art1 > p{
+    font-size: 35px;
+}
